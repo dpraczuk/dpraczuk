@@ -4,11 +4,11 @@
 
  
  ## Projekty stworzone dla klientów komercyjnych:
- * www.prezentperfekt.com
+ * 
  
  ## Moja strona portfolio z opisanymi projektami:
  
- * www.dpraczuk.com
+ * 
 
 ### Mój stack technologiczny:
 
