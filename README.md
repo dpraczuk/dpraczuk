@@ -8,12 +8,12 @@
 
  
  ## Commercial projects created by me: <br>
-  <p align="center"> https://prezentperfektsite.vercel.app/ </p>
+  https://prezentperfektsite.vercel.app/
   
  
  ## My portfolio website: <br>
  
- <p align="center"> www.dpraczuk.com </p>
+ www.dpraczuk.com
 
  
  
