@@ -8,13 +8,13 @@
 
 
  
- ## Commercial projects created by me: 
+ ## Commercial projects created by me:
   *
  <br>
  <br>
   
  
- ## My portfolio website: <br>
+ ## My portfolio website <br>
  
  www.dpraczuk.com
 <br>
@@ -22,7 +22,7 @@
  
  
  
-### My technology stack: 
+### My technology stack 
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="40" style="max-width: 100%;"></a>
@@ -30,10 +30,10 @@
  <br>
  <br>
  
- ### Also I had contact with:
+ ### Also I had contact with
  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" width="120" height="80" style="max-width: 100%;" > </a> <a href="https://www.gatsbyjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gatsby/gatsby-original-wordmark.svg" width="120" height="80" style="max-width: 100%;" ></a>
  
- ### My LinkedIn profile:
+ ### LinkedIn profile
  <a href="https://www.linkedin.com/in/dariusz-praczuk-199467228/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original-wordmark.svg" width="120"   height="80" style="max-width: 100%" > </a>
  
  
