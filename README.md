@@ -7,13 +7,13 @@
 
 
  
- ## Commercial projects created by me:
-  *
+ ## Commercial projects created by me: <br>
+  <p align="center"> https://prezentperfektsite.vercel.app/ </p>
   
  
- ## My portfolio website (every project has his own description):
+ ## My portfolio website: <br>
  
- *
+ <p align="center"> www.dpraczuk.com </p>
 
  
  
