@@ -30,7 +30,7 @@
  <br>
  
  ### Also I had contact with:
- <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" width="120" height="80" style="max-width: 100%;" > </a> <a href="https://www.gatsbyjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gatsby/gatsby-original-wordmark.svg" width="120" height="80" style="max-width: 100%;" ></a>
+ <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" width="120" height="80" style="max-width: 100%;" > </a> <a href="https://www.gatsbyjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gatsby/gatsby-plain-wordmark.svg" width="120" height="80" style="max-width: 100%;" ></a>
  
  ### LinkedIn profile:
  <a href="https://www.linkedin.com/in/dariusz-praczuk-199467228/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original-wordmark.svg" width="120"   height="80" style="max-width: 100%" > </a>
