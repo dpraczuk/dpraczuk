@@ -9,7 +9,7 @@
 
  
  ## Commercial projects created by me:
-  * https://prezentperfektsite.vercel.app/ - project temporarily suspended, waiting for client assets
+  * https://prezentperfektsite.vercel.app/ - project temporarily suspended, waiting for client assets and content
  <br>
  <br>
   
